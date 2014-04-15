@@ -1,0 +1,2 @@
+EXIM_QID \b[0-9A-Za-z]{6}-[0-9A-Za-z]{6}-[0-9A-Za-z]{2}\b
+EXIM_TIMESTAMP \d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}
